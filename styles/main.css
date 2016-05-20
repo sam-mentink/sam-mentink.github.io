@@ -1,0 +1,26 @@
+body {
+  background: #999; 
+  font-family: arial;
+}
+
+h1, h2, p, li {
+  color: #333;
+}
+
+a { 
+background: #888; 
+color: white;
+padding-top: 3;
+padding-bottom: 3;
+}
+
+p { 
+
+color: black;
+padding: 2px;
+}
+
+.secondary {
+  background: none;
+  color: #777;
+}
